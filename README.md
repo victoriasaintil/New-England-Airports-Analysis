@@ -23,7 +23,7 @@ Download New England airport data from [OurAirports.com](https://ourairports.com
 ## Tech Stack
 
 ## Data Source
-`new_england_airports.csv` - Contains airport metadata including:
+`us-airports.csv` - Contains airport metadata including:
 - `type` (small_airport, medium_airport, large_airport, etc.)
 - `iso_region` (state codes: US-CT, US-MA, etc.)
 - `latitude_deg`, `longitude_deg`, `elevation_ft`
