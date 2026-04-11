@@ -5,7 +5,7 @@
 ## Overview
 Interactive Streamlit dashboard analyzing airports across New England (CT, MA, ME, NH, RI, VT). Filter by **airport type** (small, medium, large) and **location** (state/region) to explore data visualizations.
 
-**Live Demo**: [victoriasaintilfinal.streamlit.app](victoriasaintilfinal.streamlit.app)
+**Live Demo**: [victoriasaintilfinal.streamlit.app](vs-airport-analysis.streamlit.app)
 
 ## Features
 - 📊 **Interactive Data Table** - Sort airports by any column (elevation, coordinates, type)
