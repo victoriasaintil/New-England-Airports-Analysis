@@ -19,7 +19,7 @@ import csv
 @st.cache_data
 def load_data():
     try:
-        file= open('new_england_airports.csv', mode='r')
+        file= open('us-airports.csv', mode='r')
         reader = csv.DictReader(file)
         rows = [row for row in reader]
 
