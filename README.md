@@ -9,7 +9,7 @@ Interactive Streamlit dashboard analyzing airports across New England (CT, MA, M
 Download New England airport data from [OurAirports.com](https://ourairports.com/data/) or use any CSV with columns:
 - type, iso_region, latitude_deg, longitude_deg, elevation_ft
 
-**Live Demo**: [vs-airport-analysis.streamlit.app](vs-airport-analysis.streamlit.app)
+**Live Demo**: [vs-airport-analysis.streamlit.app](https://vs-airport-analysis.streamlit.app/)
 
 ## Features
 - 📊 **Interactive Data Table** - Sort airports by any column (elevation, coordinates, type)
