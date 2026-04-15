@@ -1,9 +1,9 @@
-# New-England-Airports-Analysis
+# Airports Analysis
 
 **Bentley University Computer Information Systems | CS230 Data Analysis Project**
 
 ## Overview
-Interactive Streamlit dashboard analyzing airports across New England (CT, MA, ME, NH, RI, VT). Filter by **airport type** (small, medium, large) and **location** (state/region) to explore data visualizations.
+Interactive Streamlit dashboard analyzing airports across America. Filter by **airport type** (small, medium, large) and **location** (state/region) to explore data visualizations.
 
 **Live Demo**: [vs-airport-analysis.streamlit.app](https://vs-airport-analysis.streamlit.app/)
 
