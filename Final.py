@@ -1,7 +1,7 @@
 """
 Name: Victoria Saintil
 CS230: Section 3
-Data: New England Airports
+Data: Airports
 URL: victoriasaintilfinal.streamlit.app
 
 Description: This data analysis utilizes data collected from various airports in America.
