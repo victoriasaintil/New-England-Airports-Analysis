@@ -4,7 +4,7 @@ CS230: Section 3
 Data: New England Airports
 URL: victoriasaintilfinal.streamlit.app
 
-Description: This data analysis utilizes data collected from various airports in the New England Area.
+Description: This data analysis utilizes data collected from various airports in America.
 Using the filters to the left, you are able to refine the data based on type and location.
 """
 import pandas as pd
