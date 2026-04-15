@@ -116,7 +116,7 @@ background: rgba(0,0,0,0);
 """
 
 st.markdown(page_bg_img, unsafe_allow_html=True)
-st.title("New England Airports Explorer")
+st.title("Airports Explorer")
 st.sidebar.header("Filters")
 
 # Create sidebar widgets that allow filtering through the data to display various outcomes
